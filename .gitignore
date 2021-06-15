@@ -1,0 +1,9 @@
+/.vscode
+
+images.tar.gz
+annotations.tar.gz
+
+/images
+/annotations
+
+
